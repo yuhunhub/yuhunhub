@@ -1,0 +1,23 @@
+{
+  "short_name": "御魂Hub",
+  "name": "御魂Hub",
+  "description": "御魂Hub是一款网页端的阴阳师黑科技工具，包含了御魂计算、御魂管理、奉纳辅助等一系列实用功能。",
+  "display": "fullscreen",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/logo/logo192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo/logo512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "orientation": "landscape",
+  "theme_color": "#c63545",
+  "background_color": "#f3eee7"
+}
